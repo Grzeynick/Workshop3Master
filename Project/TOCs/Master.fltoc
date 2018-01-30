@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="New TOC Book"
+    Link="Child1.mcwebhelp">
+    <TocEntry
+      Title="New Entry" />
+  </TocEntry>
+  <TocEntry
+    Title="New TOC Book"
+    Link="Child2.mcwebhelp">
+    <TocEntry
+      Title="New Entry" />
+  </TocEntry>
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/A_Introduction Topics/Welcome.htm">
+    <TocEntry
+      Title="New Entry" />
+  </TocEntry>
+</CatapultToc>
